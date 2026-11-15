@@ -1,0 +1,7 @@
+.next/
+*.tgz
+yarn-error.log*
+npm-debug.log*
+*.log
+.env
+build/
